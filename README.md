@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**kilpopas/kilpopas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ☁️ Senior Cloud Architect at Vivicta
 
-Here are some ideas to get you started:
+I am a seasoned **Senior Cloud Architect** with a long and impactful career at **Vivicta**. I specialize in designing, scaling, and securing enterprise-grade cloud environments. My passion lies in transforming complex infrastructure challenges into highly available, automated, and cost-efficient cloud solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I Do Currently
+
+I’m currently working on kubernetes cluster production setup to our Customers at on-prem environment:
+- Deployment tools setup
+- Monitoring and logging
+- High Availability'
+- Multi-tenancy
+- etc.
+
+### 🚀 What I have done previously
+
+- Worked at setting up project environment to Azure using Terraform (AKS, Confluent Cloud).
+- Private Cloud devops platform based on virtualization and setting up infra using Openstack Heat and Ansible and Python. Worked as architect and devops team lead.
+- Multiple software project working as developer and software architect (C++, Java Enterprise Edition, Spring Boot etc)
+
+### 📫 Connect With Me
+* 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+* 🌐 **Company Website:** [Vivicta](https://vivicta.com)
+* 📧 **Email:** [pasi.kilponen@vivicta.com]
+
