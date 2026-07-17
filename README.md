@@ -2,7 +2,7 @@
 
 ### ☁️ Senior Cloud Architect at Vivicta
 
-I am a seasoned **Senior Cloud Architect** with a long and impactful career at **Vivicta**. I specialize in designing, scaling, and securing enterprise-grade cloud environments. My passion lies in transforming complex infrastructure challenges into highly available, automated, and cost-efficient cloud solutions.
+I am a seasoned **Senior Cloud Architect** with a long, established career at **Vivicta**. I specialize in designing, scaling, and securing enterprise-grade cloud environments, helping organizations navigate their cloud journeys with highly reliable, automated, and modern systems.
 
 ---
 
