@@ -22,7 +22,7 @@ I’m currently working on kubernetes cluster production setup to our Customers 
 - Multiple software project working as developer and software architect (C++, Java Enterprise Edition, Spring Boot etc)
 
 ### 📫 Connect With Me
-* 💼 **LinkedIn:** [Pasi Kilponen](https://www.linkedin.com/in/pasi-kilponen-bb5b875/)
+* 💼 **LinkedIn:** [Pasi Kilponen](www.linkedin.com/in/pasi-kilponen-bb5b875)
 * 🌐 **Company Website:** [Vivicta](https://vivicta.com)
 * 📧 **Email:** [pasi.kilponen@vivicta.com]
 
